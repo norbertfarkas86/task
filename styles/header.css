@@ -1,0 +1,23 @@
+.header {
+    float: right;    
+}
+
+.header div {    
+    display: inline-block;
+    margin: 0 10px;     
+}
+
+.header__separator {    
+    height: 19px;
+    border: 1px solid white;
+}
+
+.header__label {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 14px;
+    line-height: 1;
+    text-shadow: 1px 1px grey;
+    height: 25px;
+    vertical-align: middle;
+}

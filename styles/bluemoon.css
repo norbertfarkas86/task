@@ -1,0 +1,25 @@
+.bluemoon {
+    width: 100%;
+    display: inline-block;
+    height: 700px;
+}
+
+.bluemoon__circle {
+    width: 540px;
+    height: 540px;
+    border-radius: 50%;
+    background: #00aeef;
+    margin: 7% auto;
+}
+
+.bluemoon__button {
+
+}
+
+.bluemoon__button--purple {
+
+}
+
+.bluemoon__button--transparent {
+
+}

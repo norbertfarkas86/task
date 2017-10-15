@@ -10,16 +10,46 @@
     border-radius: 50%;
     background: #00aeef;
     margin: 7% auto;
+    text-align: center;
+}
+
+.bluemoon__title {
+    font-family: Roboto thin;
+    font-size: 28px;
+    font-variant: thin;
+    padding-top: 50px;
+}
+
+.bluemoon__subtitle {
+    font-family: Roboto;
+    font-size: 48px;
+    padding: 0 20px 0;
+    margin-top: 0;
 }
 
 .bluemoon__button {
+    width: 250px;
+    height: 30px;
+    border-radius: 25px;
+    margin: 5px auto 20px;
+    text-align: left;
+    text-indent: 10px;
+    font-family: Roboto black;
+    text-shadow: 2px 2px black;
 
 }
 
 .bluemoon__button--purple {
-
+    background-color: purple;
+    border: 1px solid purple;
 }
 
 .bluemoon__button--transparent {
+    border: 1px solid rgb(187, 240, 250);
+}
+
+.bluemoon__button--purpletext {
+    font-size: 8px;
+  
 
 }
